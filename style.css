@@ -1,9 +1,15 @@
-h1 {
-    color:chartreuse;
+.title {
+    color: orange;
+    font-size: 30px;
+    font-weight: bold;
 }
 .text {
-    color: darkkhaki;
+    color: blue;
+    font-size: 16px;
+    font-weight: normal;
 }
-#first {
-    font-size: 28px;
+.header {
+    color: green;
+    font-size: 25px;
+    font-weight: 600;
 }
